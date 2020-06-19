@@ -1,6 +1,6 @@
-// Copyright ⓒ 2019 Dawid Maliszewski (msdos400) <msdos@strona.pl>
+// Copyright ⓒ 2019-2020 Dawid Maliszewski (thedaveesky) <maliszewski.dawid@icloud.com>
 
-// This file is part of arduino-smart-home-gateway (https://github.com/msdos400/arduino-smart-home-gateway)
+// This file is part of arduino-smart-home-gateway (https://github.com/thedaveesky/arduino-smart-home-gateway)
 
 // Require binding:
 // - MySensors
