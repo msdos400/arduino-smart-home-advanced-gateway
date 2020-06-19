@@ -1,10 +1,10 @@
 # Arduino Smart Home Gateway
-![Release](https://img.shields.io/github/release/msdos400/arduino-smart-home-gateway.svg?style=flat-square)
-![Repo size](https://img.shields.io/github/repo-size/msdos400/arduino-smart-home-gateway.svg?style=flat-square)
-![Language count](https://img.shields.io/github/languages/count/msdos400/arduino-smart-home-gateway.svg?style=flat-square)
-![Top language](https://img.shields.io/github/languages/top/msdos400/arduino-smart-home-gateway.svg?style=flat-square)
-![Last commit](https://img.shields.io/github/last-commit/msdos400/arduino-smart-home-gateway.svg?style=flat-square)
-![License](https://img.shields.io/github/license/msdos400/arduino-smart-home-gateway.svg?style=flat-square)
+![Release](https://img.shields.io/github/release/thedaveesky/arduino-smart-home-gateway.svg?style=flat-square)
+![Repo size](https://img.shields.io/github/repo-size/thedaveesky/arduino-smart-home-gateway.svg?style=flat-square)
+![Language count](https://img.shields.io/github/languages/count/thedaveesky/arduino-smart-home-gateway.svg?style=flat-square)
+![Top language](https://img.shields.io/github/languages/top/thedaveesky/arduino-smart-home-gateway.svg?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/thedaveesky/arduino-smart-home-gateway.svg?style=flat-square)
+![License](https://img.shields.io/github/license/thedaveesky/arduino-smart-home-gateway.svg?style=flat-square)
 > An advanced MySensors gateway code that supports RGB strip (with modes and animations), LED bulbs, relays, buttons, 1-Wire, DHT and radio at the same time.
 
 I use this code in my intelligent room project. I have it uploaded to my arduino micro clone, which is connected to my home server. It monitors humidity and temperature in my room and temperature outside. It also creates charts. It sets all lighting in my room, both RGB strip and LED bulbs. It does animations, transitions between colours and states. It has ability to change modes which can automatically change RGB colours. It controls the state of my computer screen and lighting power supply too. I also have other things connected via the radio. This code uses the maximum possibilities of my arduino.
